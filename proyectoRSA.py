@@ -109,5 +109,7 @@ while opcion != 3:
     elif(opcion == 2):
         print()
         print("Opcion2")
+    elif(opcion==3):
+        print("\n¡Hasta luego!\n")
     else:
         print("Opcion no valida")
